@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Form App</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+
+    <string name="txtHintNome">Nome:</string>
+    <string name="txtHintSobrenome">Sobrenome:</string>
+    <string name="txtHintTelefone">Telefone:</string>
+    <string name="txtHintEmail">E-mail:</string>
+    <string name="btnSalvar">Salvar</string>
+    <string name="txtVersao">Versão 1.0</string>
+    <string name="alerta">Você deve preencher todos os campos!</string>
+    <string name="excluir">Excluir</string>
+    <string name="mensagem">Confirma a exclusão dos dados do usuário</string>
+    <string name="cancelar">Cancelar</string>
+    <string name="confirmar">SIM</string>
+    <string name="semDados">Sem dados cadastrados...</string>
+
+
+</resources>
